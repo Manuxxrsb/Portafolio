@@ -11,6 +11,16 @@ Currently, two official plugins are available:
 
 ---
 
+# Tenologias
+
+- React
+- Vite
+- Tailwing
+
+# Deploy
+
+- Vercel: https://react-vite-practicas.vercel.app/
+
 Instalacion de React Vite
 
 1.  `npm create vite@latest`
