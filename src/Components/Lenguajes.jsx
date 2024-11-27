@@ -33,7 +33,7 @@ function Lenguajes() {
                   className="h-[100px] w-full object-scale-down transition duration-500 group-hover:scale-105 sm:h-[150px] lg:h-[250px]"
                 />
               </a>
-              Html 5
+              Html
             </li>
 
             <li>
@@ -47,7 +47,7 @@ function Lenguajes() {
                   className="h-[100px] w-full object-scale-down transition duration-500 group-hover:scale-105 sm:h-[150px] lg:h-[250px]"
                 />
               </a>
-              Css3
+              Css
             </li>
 
             <li>
