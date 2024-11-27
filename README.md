@@ -7,13 +7,17 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-----
-----
+---
+
+---
 
 Instalacion de React Vite
 
-1.  ```npm create vite@latest```
-2.  ``` npm install ```
+1.  `npm create vite@latest`
+2.  `npm install`
 
 Ejecuta el proyecto
-1.  ```npm run dev```
+
+1.  `npm run dev`
+
+Proyecto deployado en: https://react-vite-practicas.vercel.app/
